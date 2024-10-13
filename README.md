@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Theodora
+- 👋 Hi, I’m Theodora.
 - I am an Electronic Engineer and Computer Science student with a passion for biomedical engineering, programming, and hardware design. 
 - 🌱 I’m currently learning Python and diving into data analysis.
 - 😄 Pronouns: she/her
